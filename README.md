@@ -1,2 +1,2 @@
 #MyApp
-this is my practice
+This is my practice
